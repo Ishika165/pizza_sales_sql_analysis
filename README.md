@@ -109,6 +109,6 @@ This project demonstrates how SQL can transform raw transactional data into mean
 
 ## 👩‍💻 Author
 
-**Ishika Dalal**
+Ishika Dalal
 
 Aspiring Data Analyst | SQL | Excel 
